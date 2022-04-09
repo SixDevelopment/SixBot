@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SixBot
+- > SixBot Is A Open-Source Discord Bot Made By (SixOP)[github.com/sixop]
+- > SixBot Command -help
+# Token
+- If You Making This In Replit Use **SECRETS**
+- If You Are Doing In VSCode Make And File Named `.env` And Paste This
+```TOKEN=[paste token here]```
+# Website
+- Go To [index.html](/website/index.html)
+And Edit It Paste Your Bot Invite Link And Name
+- Go To [script.js](./website/script.js) And Edit Line 3 And Edit `YourDiscordBotLink` To Yur Discord Bot Link
+- If Yo Want To Go To The Website 
 
-You can use the [editor on GitHub](https://github.com/SixDevelopment/SixBot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SixDevelopment/SixBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- > In Replit `https://replname.yourname.repl.co/index.html`
+- > In VSCode Go To [index.html](./website/index.html) Then Rignt Click Then `Reveal In File Explorer`
+# npm
+- > Do `npm i` Once (required)
