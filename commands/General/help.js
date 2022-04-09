@@ -1,0 +1,23 @@
+module.exports = {
+  name:"help",
+  code:`
+$title[1;Commands]
+$description[1;
+\`\`\`diff
+$getServerVar[prefix]Ping
+$getServerVar[prefix]Kick
+$getServerVar[prefix]Ban
+$getServerVar[prefix]Purge
+$getServerVar[prefix]setPrefix
+$getServerVar[prefix]newChannel
+$getServerVar[prefix]embed
+$getServerVar[prefix]memberCount
+$getServerVar[prefix]serverIcon
+$getServerVar[prefix]GuildID
+$getServerVar[prefix]Avatar
+$getServerVar[prefix]
+\`\`\`
+]
+$color[1;BLUE]
+`
+}
