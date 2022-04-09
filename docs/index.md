@@ -3,8 +3,7 @@
 - > SixBot Command -help
 # Token
 - If You Making This In Replit Use **SECRETS**
-- If You Are Doing In VSCode Make And File Named `.env` And Paste This
-```TOKEN=[paste token here]```
+- If You Are Doing In VSCode Put Your Token in [index.js](./index.js)
 # Website
 - Go To [index.html](/website/index.html)
 And Edit It Paste Your Bot Invite Link And Name
